@@ -9,3 +9,7 @@ console.log('pretty')
 console.log('pretty')
 
 console.log('pretty')
+
+function clickBtn () {
+    console.log('button was clicked')
+}
