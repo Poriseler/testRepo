@@ -16,4 +16,7 @@ function clickBtn () {
 
 function sayHello() {
     console.log('hello')
+    
+function anotherBtn() {
+    console.log('blah blah blah')
 }
