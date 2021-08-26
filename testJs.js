@@ -13,3 +13,7 @@ console.log('pretty')
 function clickBtn () {
     console.log('button was clicked')
 }
+
+function sayHello() {
+    console.log('hello')
+}
